@@ -1,0 +1,56 @@
+# TechCorp Frequently Asked Questions
+
+## General Information
+
+### What is TechCorp?
+TechCorp is a leading software development company founded in 2010. We specialize in artificial intelligence, machine learning, and cloud computing solutions for enterprise clients.
+
+### Where is TechCorp headquartered?
+TechCorp's global headquarters is located in San Francisco, California. We also have regional offices in New York, London, Tokyo, and Sydney.
+
+### How many employees does TechCorp have?
+As of 2023, TechCorp employs over 3,500 people worldwide, with the majority working in engineering and product development roles.
+
+## Products and Services
+
+### What is TechCorp's flagship product?
+Our flagship product is AIAssist, an enterprise-grade AI platform that helps businesses automate routine tasks, extract insights from data, and improve decision-making processes.
+
+### What industries does TechCorp serve?
+TechCorp serves clients across various industries, including finance, healthcare, retail, manufacturing, and government. Our solutions are tailored to meet the specific needs of each industry.
+
+### Does TechCorp offer custom development services?
+Yes, TechCorp offers custom development services for clients with specific requirements. Our professional services team works closely with clients to design and implement bespoke solutions.
+
+## Customer Support
+
+### How can I contact TechCorp customer support?
+You can contact our customer support team by email at support@techcorp.example or by phone at 1-800-TECH-HELP. Our support hours are Monday through Friday, 8am to 8pm EST.
+
+### What is TechCorp's service level agreement (SLA)?
+TechCorp offers different SLA tiers based on subscription level. Our Premium support tier guarantees a response within 1 hour and resolution within 24 hours for critical issues.
+
+### Does TechCorp provide technical documentation?
+Yes, comprehensive technical documentation is available for all our products through our Developer Portal. This includes API references, integration guides, and best practices.
+
+## Pricing and Plans
+
+### How is TechCorp's AIAssist platform priced?
+AIAssist is available in three tiers: Starter ($1,000/month), Professional ($5,000/month), and Enterprise (custom pricing). Each tier offers different features and usage limits.
+
+### Does TechCorp offer discounts for startups?
+Yes, we offer a Startup Program that provides eligible early-stage companies with discounted access to our products. Apply through our website with your company information.
+
+### What is the refund policy?
+TechCorp offers a 30-day money-back guarantee for new subscriptions. If you're not satisfied with our product within the first 30 days, contact our support team for a full refund.
+
+## Career Opportunities
+
+### How can I apply for a job at TechCorp?
+You can view and apply for open positions on our Careers page at careers.techcorp.example. We regularly update the page with new opportunities across all departments.
+
+### What is the interview process like?
+Our interview process typically includes an initial screening call, a technical or role-specific assessment, and 2-3 interviews with team members and managers. The process usually takes 2-3 weeks.
+
+### Does TechCorp offer internships?
+Yes, we offer summer internships and co-op programs for students in computer science, engineering, marketing, and business fields. Applications open each January for summer positions.

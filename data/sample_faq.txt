@@ -1,0 +1,47 @@
+# RAG Agent FAQ
+
+## What is RAG?
+RAG stands for Retrieval-Augmented Generation. It's an AI framework that combines retrieval-based and generation-based approaches to create more accurate and informative responses. RAG first retrieves relevant information from a knowledge base and then uses that information to generate responses.
+
+## How does RAG work?
+RAG works in two main steps:
+1. Retrieval: The system searches a database of documents to find information relevant to the user's query.
+2. Generation: The retrieved information is combined with the user's query and fed into a language model, which generates a response based on both the retrieved information and its pre-trained knowledge.
+
+## What are the benefits of RAG?
+Benefits of RAG include:
+- More accurate responses with factual grounding
+- Ability to access specific information not in the model's training data
+- Reduced hallucinations (making up information)
+- Updatable knowledge without retraining the entire model
+- Ability to cite sources for information
+
+## What is a vector database?
+A vector database is a specialized database that stores and retrieves data based on semantic similarity rather than exact matching. It converts text or other data into vector embeddings (numerical representations) and can efficiently find similar vectors using techniques like nearest-neighbor search.
+
+## What is chunking in RAG systems?
+Chunking is the process of breaking documents into smaller pieces or "chunks" that can be efficiently embedded, stored, and retrieved. Good chunking strategies ensure that the chunks are meaningful, self-contained units of information that preserve the context necessary for accurate retrieval and generation.
+
+## What are embeddings?
+Embeddings are numerical representations of text (or other data) that capture semantic meaning in a way that machines can process. In RAG systems, both documents and queries are converted to embeddings to enable similarity-based retrieval.
+
+## How is similarity measured in RAG systems?
+Similarity between query and document embeddings is typically measured using distance functions like cosine similarity, Euclidean distance, or dot product. These functions quantify how close two vectors are in the embedding space, with closer vectors indicating greater semantic similarity.
+
+## Can RAG systems use multiple knowledge sources?
+Yes, RAG systems can incorporate multiple knowledge sources, including documents, databases, APIs, and structured data. This allows for comprehensive information retrieval across diverse formats and sources.
+
+## How do RAG systems handle context length limitations?
+RAG systems address context length limitations by:
+- Chunking documents into manageable sizes
+- Using relevance filtering to select only the most pertinent information
+- Implementing techniques like re-ranking or recursive retrieval to refine results
+- Summarizing lengthy retrieval results before feeding them to the generation phase
+
+## Are there any limitations to RAG systems?
+Some limitations of RAG systems include:
+- Dependency on the quality of the retrieval system
+- Potential for irrelevant information retrieval affecting generation
+- Challenges with handling complex queries that require multi-step reasoning
+- Computational overhead compared to pure generative approaches
+- Need for effective chunking and indexing strategies
