@@ -32,7 +32,7 @@ The system consists of the following components:
 
 ### Local-First Approach
 - **Local Embeddings**: Uses SentenceTransformer for document embeddings, avoiding external API calls
-- **Local LLM**: Uses Llama 3 hosted locally, reducing latency and API costs
+- **Local LLM**: Uses Llama 3 hosted locally, to bypass the free tier of other APIs, which improved latency and saved a lot of money.
 
 ### Efficient Chunking Strategy
 - **Sentence-Based Chunking**: Preserves semantic meaning by chunking at sentence boundaries
